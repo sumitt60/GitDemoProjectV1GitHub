@@ -1,4 +1,4 @@
-package package2;
+package package2Copy.copy;
 
 import org.testng.annotations.Test;
 
